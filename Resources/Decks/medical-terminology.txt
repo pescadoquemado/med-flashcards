@@ -1,0 +1,118 @@
+# id|front|back|tag  (keep ids stable; add new cards with new ids)
+mt-001|a- / an-|without, absence of|Prefix
+mt-002|brady-|slow|Prefix
+mt-003|tachy-|fast, rapid|Prefix
+mt-004|dys-|difficult, painful, abnormal|Prefix
+mt-005|hyper-|above, excessive|Prefix
+mt-006|hypo-|below, deficient|Prefix
+mt-007|peri-|around|Prefix
+mt-008|endo-|within, inside|Prefix
+mt-009|epi-|upon, above|Prefix
+mt-010|inter-|between|Prefix
+mt-011|intra-|within|Prefix
+mt-012|sub-|below, under|Prefix
+mt-013|poly-|many, much|Prefix
+mt-014|oligo-|few, scanty|Prefix
+mt-015|hemi-|half|Prefix
+mt-016|bi-|two|Prefix
+mt-017|macro-|large|Prefix
+mt-018|micro-|small|Prefix
+mt-019|neo-|new|Prefix
+mt-020|pre-|before|Prefix
+mt-021|post-|after|Prefix
+mt-022|pan-|all|Prefix
+mt-023|contra-|against, opposite|Prefix
+mt-024|eu-|good, normal|Prefix
+mt-025|para-|beside, near; abnormal|Prefix
+mt-026|trans-|across, through|Prefix
+mt-027|dia-|through, complete|Prefix
+mt-028|ab-|away from|Prefix
+mt-029|ad-|toward|Prefix
+mt-030|cardi/o|heart|Root
+mt-031|hepat/o|liver|Root
+mt-032|nephr/o, ren/o|kidney|Root
+mt-033|gastr/o|stomach|Root
+mt-034|enter/o|intestines (usually small intestine)|Root
+mt-035|col/o|colon, large intestine|Root
+mt-036|oste/o|bone|Root
+mt-037|arthr/o|joint|Root
+mt-038|chondr/o|cartilage|Root
+mt-039|my/o|muscle|Root
+mt-040|neur/o|nerve|Root
+mt-041|encephal/o|brain|Root
+mt-042|cephal/o|head|Root
+mt-043|crani/o|skull|Root
+mt-044|derm/o, dermat/o|skin|Root
+mt-045|pulmon/o|lung|Root
+mt-046|pneum/o|lung; air|Root
+mt-047|hem/o, hemat/o|blood|Root
+mt-048|angi/o|vessel|Root
+mt-049|phleb/o, ven/o|vein|Root
+mt-050|arteri/o|artery|Root
+mt-051|cyst/o|urinary bladder; sac|Root
+mt-052|cyt/o|cell|Root
+mt-053|rhin/o|nose|Root
+mt-054|ot/o|ear|Root
+mt-055|ophthalm/o|eye|Root
+mt-056|or/o, stomat/o|mouth|Root
+mt-057|laryng/o|larynx (voice box)|Root
+mt-058|trache/o|trachea (windpipe)|Root
+mt-059|thorac/o|chest|Root
+mt-060|abdomin/o|abdomen|Root
+mt-061|vertebr/o, spondyl/o|vertebra, spine|Root
+mt-062|thromb/o|clot|Root
+mt-063|lip/o|fat|Root
+mt-064|glyc/o|sugar, glucose|Root
+mt-065|erythr/o|red|Root
+mt-066|leuk/o|white|Root
+mt-067|cyan/o|blue|Root
+mt-068|path/o|disease|Root
+mt-069|onc/o|tumor|Root
+mt-070|pedi/o|child (as in pediatrics)|Root
+mt-071|cholecyst/o|gallbladder|Root
+mt-072|pancreat/o|pancreas|Root
+mt-073|splen/o|spleen|Root
+mt-074|hyster/o|uterus|Root
+mt-075|mamm/o, mast/o|breast|Root
+mt-076|-itis|inflammation|Suffix
+mt-077|-ectomy|surgical removal, excision|Suffix
+mt-078|-otomy|incision, cutting into|Suffix
+mt-079|-ostomy|surgical creation of an opening|Suffix
+mt-080|-plasty|surgical repair|Suffix
+mt-081|-scopy|visual examination|Suffix
+mt-082|-gram|record, image|Suffix
+mt-083|-graphy|process of recording|Suffix
+mt-084|-algia|pain|Suffix
+mt-085|-emia|blood condition|Suffix
+mt-086|-penia|deficiency, decrease|Suffix
+mt-087|-megaly|enlargement|Suffix
+mt-088|-oma|tumor, mass|Suffix
+mt-089|-osis|abnormal condition|Suffix
+mt-090|-pathy|disease|Suffix
+mt-091|-logy|study of|Suffix
+mt-092|-cyte|cell|Suffix
+mt-093|-rrhea|flow, discharge|Suffix
+mt-094|-rrhage|bursting forth (excessive bleeding)|Suffix
+mt-095|-pnea|breathing|Suffix
+mt-096|-stasis|stopping, controlling|Suffix
+mt-097|-centesis|surgical puncture to remove fluid|Suffix
+mt-098|-lysis|breakdown, destruction|Suffix
+mt-099|-genic|producing, caused by|Suffix
+mt-100|-plegia|paralysis|Suffix
+mt-101|-trophy|development, nourishment|Suffix
+mt-102|-uria|urine condition|Suffix
+mt-103|NPO|nothing by mouth|Abbreviation
+mt-104|PO|by mouth|Abbreviation
+mt-105|PRN|as needed|Abbreviation
+mt-106|STAT|immediately|Abbreviation
+mt-107|IV|intravenous|Abbreviation
+mt-108|IM|intramuscular|Abbreviation
+mt-109|SubQ|subcutaneous|Abbreviation
+mt-110|BID|twice a day|Abbreviation
+mt-111|TID|three times a day|Abbreviation
+mt-112|QID|four times a day|Abbreviation
+mt-113|CBC|complete blood count|Abbreviation
+mt-114|BMP|basic metabolic panel|Abbreviation
+mt-115|PICU|pediatric intensive care unit|Abbreviation
+mt-116|NICU|neonatal intensive care unit|Abbreviation
+mt-117|PPE|personal protective equipment|Abbreviation

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mt",
+    "name": "Medical terminology",
+    "file": "medical-terminology"
+  },
+  {
+    "id": "sim",
+    "name": "Simulation & resuscitation",
+    "file": "simulation"
+  }
+]

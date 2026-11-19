@@ -1,0 +1,98 @@
+# id|front|back|tag  (keep ids stable; add new cards with new ids)
+sim-001|Simulation-based experience (SBE)|A planned activity that recreates a real healthcare situation so people can practice, be assessed, or test systems|Sim terms
+sim-002|Prebriefing|All the activity before a scenario: preparation done beforehand (readings, videos, skills practice) plus the live briefing|Sim terms
+sim-003|Briefing (part of prebriefing)|Live, just before the scenario: agenda and expectations, the fiction contract and confidentiality, psychological safety, and orientation to roles, space, manikin and equipment|Sim terms
+sim-004|Debriefing|A facilitated, reflective conversation after the scenario to analyze what happened and what to carry into practice|Sim terms
+sim-005|Fidelity|How closely a simulation reproduces the real event; higher is not automatically better, so match it to the objectives|Sim terms
+sim-006|Physical (environmental) fidelity|How real the room, equipment and manikin look and feel|Sim terms
+sim-007|Psychological fidelity|How real the experience feels to participants: stress, emotion, time pressure|Sim terms
+sim-008|Conceptual fidelity|Whether the case hangs together logically, e.g., vital signs fit the diagnosis|Sim terms
+sim-009|Fiction contract|Agreement that learners treat the scenario as real (suspend disbelief) and facilitators make it credible|Sim terms
+sim-010|Psychological safety|Participants feel safe to speak up, ask for help and make mistakes without fear of embarrassment or punishment|Sim terms
+sim-011|In situ simulation|Simulation run in the actual patient-care area, with the real team and equipment|Sim terms
+sim-012|Latent safety threat|A hidden system problem (equipment, process, environment) that could harm a patient; in situ sims often uncover them|Sim terms
+sim-013|Hybrid simulation|Two or more modalities combined, e.g., a task trainer worn by a standardized patient, or a manikin voiced by an actor|Sim terms
+sim-014|Task trainer (partial task trainer)|A model of part of the body for practicing one skill, e.g., an IO leg or an intubation head|Sim terms
+sim-015|Manikin|A full- or partial-body patient simulator; high-fidelity ones are computer-driven with vitals, breath sounds and responses|Sim terms
+sim-016|Standardized / simulated patient|A person trained to portray a patient. 'Standardized' stresses a consistent portrayal across learners (e.g., OSCE exams); 'simulated patient/participant' is the broader umbrella term|Sim terms
+sim-017|Embedded participant|A scripted role player (nurse, parent, tech) who guides, challenges or distracts according to the objectives. 'Confederate' is an older term SSH no longer recommends|Sim terms
+sim-018|Cue|Information given during a scenario to help learners progress toward the objectives|Sim terms
+sim-019|Conceptual cue vs. reality cue|Conceptual: helps learners reach the objective. Reality: clarifies what the simulation represents (e.g., "the skin looks mottled")|Sim terms
+sim-020|Moulage|Makeup and molds on a manikin or person to show wounds, rashes, bleeding or devices|Sim terms
+sim-021|Scenario|The planned storyline of a simulated case: patient information, expected course, and branch points|Sim terms
+sim-022|Dry run (pilot test)|A full practice run of a new scenario with staff before using it with learners|Sim terms
+sim-023|Learning objectives|Specific, measurable statements of what participants should be able to do; every SBE starts with them|Sim terms
+sim-024|Critical actions|The key tasks learners are expected to perform; often the checklist used to evaluate and debrief|Sim terms
+sim-025|Trigger event|A planned change in the scenario designed to prompt a specific action or behavior|Sim terms
+sim-026|Deliberate practice|Repeated practice of a well-defined skill with immediate expert feedback until mastery|Sim terms
+sim-027|Rapid cycle deliberate practice (RCDP)|Short sim cycles paused for immediate directive feedback, then repeated; common in pediatric resuscitation training|Sim terms
+sim-028|Mock code|A scheduled or unannounced simulated cardiac arrest, often in situ, to practice the code response|Sim terms
+sim-029|Just-in-time training|Brief practice right before a skill or procedure is likely to be needed|Sim terms
+sim-030|Formative vs. summative evaluation|Formative: feedback to improve while learning. Summative: a graded judgment at the end, such as pass/fail|Sim terms
+sim-031|Sim-IPE|Simulation-enhanced interprofessional education: different professions train together toward shared objectives|Sim terms
+sim-032|Simulation operations specialist|Runs the technology and logistics: manikin programming, audio-video, room setup and supplies|Sim terms
+sim-033|PEARLS|Promoting Excellence And Reflective Learning in Simulation: a blended debrief of self-assessment, focused facilitation and directive feedback|Debriefing
+sim-034|PEARLS phases|Reactions, Description, Analysis, Summary|Debriefing
+sim-035|Plus-delta|Learners list what went well (+) and what to change (Δ); simple and good for new debriefers|Debriefing
+sim-036|Advocacy-inquiry|State what you observed and your view of it (advocacy), then ask for the learner's thinking (inquiry)|Debriefing
+sim-037|Frames (mental models)|The assumptions and reasoning behind a learner's actions; good debriefing explores frames, not just actions|Debriefing
+sim-038|Gather-Analyze-Summarize (GAS)|Debriefing structure from WISER and the AHA, used in PALS/ACLS courses: Gather (reactions and what happened), Analyze (reflect on actions and thinking), Summarize (key take-aways)|Debriefing
+sim-039|Directive feedback|Telling the learner specifically what to do differently to improve performance|Debriefing
+sim-040|Hot debrief|A brief debrief on the unit right after a real clinical event, such as a code|Debriefing
+sim-041|Guided reflection|Structured thinking about an experience to connect it to future practice|Debriefing
+sim-042|Crisis resource management (CRM)|Team skills for emergencies: leadership, communication, planning, resource use, workload, situational awareness, prioritization|Teamwork
+sim-043|Closed-loop communication|Sender gives a directed order, receiver repeats it back, sender confirms, receiver reports when it is done|Teamwork
+sim-044|Shared mental model|The whole team holds the same picture of the patient and the plan|Teamwork
+sim-045|Situational awareness|Perceiving what is happening, understanding what it means, and predicting what comes next|Teamwork
+sim-046|Interim summary|The leader pauses to restate the situation and plan so the team stays aligned|Teamwork
+sim-047|Call for help early|CRM principle: mobilize people and equipment before you need them|Teamwork
+sim-048|Non-technical skills|Teamwork, communication, leadership and decision-making, as opposed to hands-on procedures|Teamwork
+sim-049|SBAR|Situation, Background, Assessment, Recommendation: a structured handoff or escalation|Teamwork
+sim-050|CUS (TeamSTEPPS)|"I'm Concerned, I'm Uncomfortable, this is a Safety issue": escalating words for speaking up|Teamwork
+sim-051|Shockable arrest rhythms|Ventricular fibrillation (VF) and pulseless ventricular tachycardia (pVT)|PALS
+sim-052|Nonshockable arrest rhythms|Asystole and pulseless electrical activity (PEA)|PALS
+sim-053|PEA|Organized electrical activity on the monitor but no palpable pulse|PALS
+sim-054|ROSC|Return of spontaneous circulation|PALS
+sim-055|Pediatric compression depth|At least one-third of the chest's front-to-back depth: about 1.5 in (4 cm) in infants and 2 in (5 cm) in children|PALS
+sim-056|Compression rate|100–120 per minute, allowing full recoil|PALS
+sim-057|Ratio: 2 rescuers, child before puberty|15 compressions : 2 breaths|PALS
+sim-058|Ratio: 1 rescuer, any age|30 compressions : 2 breaths|PALS
+sim-059|Ventilation with an advanced airway during CPR|Continuous compressions; 1 breath every 2–3 seconds|PALS
+sim-060|Switching compressors|Every 2 minutes, sooner if fatigued|PALS
+sim-061|First shock, pediatric VF/pVT|2 J/kg|PALS
+sim-062|Second shock|4 J/kg|PALS
+sim-063|Subsequent shocks|At least 4 J/kg, maximum 10 J/kg or the adult dose|PALS
+sim-064|Epinephrine in pediatric arrest|0.01 mg/kg IV/IO (0.1 mg/mL), max 1 mg, every 3–5 minutes|PALS
+sim-065|Epinephrine timing in nonshockable arrest|As soon as possible|PALS
+sim-066|Amiodarone in pediatric VF/pVT|5 mg/kg IV/IO bolus (max 300 mg); may repeat up to 3 total doses (max 150 mg for later doses)|PALS
+sim-067|Lidocaine (alternative to amiodarone)|1 mg/kg IV/IO|PALS
+sim-068|Preferred drug route in arrest|IV or IO, over endotracheal|PALS
+sim-069|ETCO2|End-tidal CO2: confirms and monitors ET tube placement and reflects CPR quality|PALS
+sim-070|The H's (reversible causes)|Hypovolemia, Hypoxia, Hydrogen ion (acidosis), Hypoglycemia, Hypo-/hyperkalemia, Hypothermia|PALS
+sim-071|The T's (reversible causes)|Tension pneumothorax, Tamponade (cardiac), Toxins, Thrombosis (pulmonary), Thrombosis (coronary)|PALS
+sim-072|Probable SVT (vs. sinus tachycardia)|Infant ≥220/min or child ≥180/min, P waves absent/abnormal, fixed RR interval, abrupt onset|PALS
+sim-073|Adenosine for SVT|0.1 mg/kg rapid IV/IO push (max 6 mg) with flush; repeat 0.2 mg/kg (max 12 mg)|PALS
+sim-074|Synchronized cardioversion, pediatric|Start 0.5–1 J/kg; if not effective, increase to 2 J/kg|PALS
+sim-075|Narrow vs. wide QRS, pediatric|Narrow ≤0.09 s; wide >0.09 s|PALS
+sim-076|Bradycardia: when to start CPR|Heart rate <60/min with cardiopulmonary compromise despite oxygenation and ventilation|PALS
+sim-077|Atropine, pediatric bradycardia|0.02 mg/kg IV/IO, may repeat once; min 0.1 mg, max single dose 0.5 mg. Used for increased vagal tone or primary AV block; epinephrine is the algorithm's general drug for persistent symptomatic bradycardia|PALS
+sim-078|Cardiopulmonary compromise|Acutely altered mental status, signs of shock, or hypotension|PALS
+sim-079|IO|Intraosseous: a needle into the bone marrow for fast vascular access|PALS
+sim-080|BVM|Bag-valve-mask (bag-mask ventilation)|PALS
+sim-081|SBE|Simulation-based experience (or education)|Abbreviations
+sim-082|SP|Standardized (or simulated) patient|Abbreviations
+sim-083|ISS|In situ simulation|Abbreviations
+sim-084|IPE|Interprofessional education|Abbreviations
+sim-085|CRM|Crew or crisis resource management|Abbreviations
+sim-086|NTS|Non-technical skills|Abbreviations
+sim-087|OSCE|Objective structured clinical examination|Abbreviations
+sim-088|SME|Subject matter expert|Abbreviations
+sim-089|RCDP|Rapid cycle deliberate practice|Abbreviations
+sim-090|LST|Latent safety threat|Abbreviations
+sim-091|CHSE|Certified Healthcare Simulation Educator|Abbreviations
+sim-092|CHSOS|Certified Healthcare Simulation Operations Specialist|Abbreviations
+sim-093|SSH|Society for Simulation in Healthcare|Abbreviations
+sim-094|INACSL|International Nursing Association for Clinical Simulation and Learning|Abbreviations
+sim-095|HSSOBP|Healthcare Simulation Standards of Best Practice (INACSL)|Abbreviations
+sim-096|TTX|Tabletop exercise simulation|Abbreviations
+sim-097|VR / AR / XR|Virtual / augmented / extended reality|Abbreviations
