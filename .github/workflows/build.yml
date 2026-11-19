@@ -10,7 +10,8 @@ permissions:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: macos-26-intel   # Intel Macs have had shorter queues than arm64
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
